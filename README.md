@@ -11,11 +11,11 @@
 	minutes must be between 0 and 59
 
 ```
-###what it retuns
+### what it retuns
 ```	
 	returns smallest degree between the two hands
 
 ```
-###how to clean
+### how to clean
 
 	to clean simply call make clean
